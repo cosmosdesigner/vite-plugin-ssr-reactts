@@ -27,7 +27,7 @@ function PageShell({
               About
             </Link>
             <Link className="navitem" href="/faq">
-              faq
+              Faq page example
             </Link>
             <Link className="navitem" href="/movies/1">
               SW Movies
